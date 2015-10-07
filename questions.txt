@@ -1,14 +1,98 @@
-Who is maharsh? 
-The coolest person ever
+Glass has no ordered arrangement of atoms so it is considered _____?
+Amorphous
 
-Question 2
-Answer 2
+Which of the following is not a mineral - (Coal, Vegetation, Glass, Water, Ice)
+Water
 
-Question 3
-Answer 3
+Minerals must have a ________ structure?
+Crystalline
 
-Question 4
-Answer 4
+If a substance is produced only by an organism, it is a mineral.
+False
 
-Question 5
-Answer 5
+List the three in decreasing silica content (andesite, basalt, rhyolite)
+Rhyolite, Andesite, Basalt
+
+What type of forces dominate at the convergent plate boundaries (compressional, shear, extensional, tensional)?
+Compressional
+
+_______ plate margins are not associated with rift valleys.
+Convergent
+
+The greatest risk of earthquakes is in ______ (California, Montana, New York, Texas)
+California
+
+List in the correct order of arrival (S-Waves, P-Waves, Surface Waves)
+P-Waves, S-Waves, Surface Waves
+
+Cleavage refers to the way minerals ______ along certain lines of ______ in their structure
+Break, Weakness
+
+It is considered a ______ cleavage if it represents a single direction in the crystal
+Single
+
+A cube shaped mineral has only _ cleavages because they represent 3 directions in the crystal
+3
+
+Minerals that have a metallic lustre have an appearance of ______________.
+Polished Metal
+
+Lustre is a qualitative description of the appearance of _____________ from the specimen
+Reflected Light
+
+The colour of a mineral in powdered form is known as ______
+Streak
+
+___________ is the typical characteristic shape a mineral will develop if it grows under ideal circumstances
+Crystal Habit
+
+___________ minerals react with dilute HCl to fizz/effervesce
+Carbonate
+
+The building block to all silicate minerals is a particular feature named _____ ?
+Silicon Tetrahedron
+
+A type of mica that is mafic and therefore dark
+Biotite
+
+A type of mica that is non-mafic and clear
+Muscovite
+
+The most abundant minerals in Earth's crust are _________, and are found in all forms of igneous rocks, clastic sedimentary rocks, and metamorphic rocks.
+Feldspars
+
+All feldspars are composed of _______, _______, and _______ (alphabetically)
+Aluminum, Oxygen, Silicon
+
+A ________ is a solid, cohesive aggregate of grains of one or more minerals
+Rock
+
+A ________ is formed when one or more minerals are put together
+Rock
+
+The operation of __________________ is the principle driver for the rock cycle.
+Plate Tectonics
+
+_____ or basaltic lava is erupted at 1000-1200 degrees celsius with low viscosity
+Mafic
+
+_____ or rhyolitic lava is erupted at 800-1000 degrees celsius with high viscosity
+Felsic
+
+Basalt volcanoes are typically large, with low slopes to their sides, and are called ______
+Shield Volcanoes
+
+Many eruptions of intermediate to _______ composition are quite explosive because of the viscous lavas and escaping gases; the explosive eruptions produce _______, which are fragmental volcanic rocks.
+Felsic, Pyroclastics
+
+The largest intermediate volcanoes erupt both intermediate and felsic lavas, plus large volumes of pyroclastics, to produce _________________.
+Stratovolcanoes
+
+In ________ weathering, the composition of the material changes, often with a net loss of material (usually ions in solution) and/or a change in size of particles
+Chemical
+
+_________ weathering produces smaller constituents without altered chemistry or mineralogy
+Physical
+
+_________ weathering involves organic activity or the influence of organisms, and involve both physical(roots) and chemical(organic acids) aspects
+Biogenic
