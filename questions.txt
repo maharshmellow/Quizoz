@@ -284,7 +284,7 @@ The process of Clastic Sedimentary Rocks (WETS+) stands for _________, _________
 Weathering, Erosion, Transport, Sedimentation, Lithification
 
 ________ sedimentary rocks form by precipitation of minerals from water. Precipitation is when dissolved materials come out of the water
-Chemical 
+Chemical
 
 The _____ is the point of rapid energy release (usually below surface)
 Focus
@@ -292,25 +292,25 @@ Focus
 The _______ is the vertical projection of the focus to Earth’s surface
 Epicenter
 
-Shallow focus earthquakes originate down to ___km, intermediate from ___-___km, and deep focus below ___km to a practical lower limit of 700km 
+Shallow focus earthquakes originate down to ___km, intermediate from ___-___km, and deep focus below ___km to a practical lower limit of 700km
 100, 100, 300, 300
 
 Arrange this in the time of occurrence (Earthquake, Fault Movement, Failure of Rocks, Energy Released)
 Failure of Rocks, Energy Released, Earthquake, Fault Movement
 
-The _____________ theory refers to the buildup of strain(deformation) in the region leading up to and after the earthquake 
-Elastic Rebound 
+The _____________ theory refers to the buildup of strain(deformation) in the region leading up to and after the earthquake
+Elastic Rebound
 
 The two types of Seismic waves are body waves (P, S), and __________ waves
 Surface
 
-___________ waves have a compressional form such as a spring compressing and decompressing 
+___________ waves have a compressional form such as a spring compressing and decompressing
 Primary
 
 ___________ waves have particle movement perpendicular to the direction of wave propagation such as a rope moving up/down
 Secondary
 
-___________ waves cause the greatest ground shaking and are the most destructive 
+___________ waves cause the greatest ground shaking and are the most destructive
 Surface Waves
 
 At ____ km below the surface there is a change from the solid state above (mantle) to the liquid state at the Earth’s outer core that contributes to the S-Waves being blocked out at a certain angle
@@ -329,27 +329,27 @@ The operation of __________ works to produce a constant total mass from Earth’
 Isostasy
 
 The Mohorovicic Discontinuity is indicative of a compositional change to very dense ____________ composition in the mantle, as compared to the overlying felsic to magic crust, without a change in state
-Ultramafic 
+Ultramafic
 
 The materials are weaker or plastic in the zone named _________ , due to temperatures nearing, but not exceeding the melting point
-Asthenosphere 
+Asthenosphere
 
 Everything above the asthenosphere (the crust + the uppermost mantle) comprise another layer called the ____________
-Lithosphere 
+Lithosphere
 
-The _________ is the difference in degrees between the magnetic and geographic/rotational poles 
-Declination 
+The _________ is the difference in degrees between the magnetic and geographic/rotational poles
+Declination
 
 As magnetically susceptible minerals crystallize, then cool below their curie temperature, they lock in a record of the orientation of the ambient prevailing magnetic field at the time; the study of this is called ______________
 Paleomagnetism
 
-___________________ is driven by Earth’s internal heat, and is essentially a means of conveying heat from the interior to the exterior, cooling the Earth 
+___________________ is driven by Earth’s internal heat, and is essentially a means of conveying heat from the interior to the exterior, cooling the Earth
 Plate Tectonics
 
-In ________ plate boundaries, where plates move apart, stresses are tensile, with a tendency to stretch and thin the crust; new lithosphere is created 
-Divergent 
+In ________ plate boundaries, where plates move apart, stresses are tensile, with a tendency to stretch and thin the crust; new lithosphere is created
+Divergent
 
-In ________ plate boundaries, where plates come together, stresses are compressive, with a tendency to shorten and thicken the crust; mountains built and old lithosphere may be consumed here 
+In ________ plate boundaries, where plates come together, stresses are compressive, with a tendency to shorten and thicken the crust; mountains built and old lithosphere may be consumed here
 Convergent
 
 In ________ plate boundary, where plates slide past each other in the horizontal plane, stresses are shear; not associated with any volcanic activity since no lithosphere is created/destroyed
