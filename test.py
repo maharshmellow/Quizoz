@@ -72,7 +72,7 @@ def startQuiz(questions, answers):
     print(answers)
     counter = 0
     totalCorrect = 0
-
+    input("Debug")
     for question in questions:
         os.system('clear')
 

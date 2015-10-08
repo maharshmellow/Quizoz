@@ -1,9 +1,6 @@
 Glass has no ordered arrangement of atoms so it is considered _____?
 Amorphous
 
-Which of the following is not a mineral - (Coal, Vegetation, Glass, Water, Ice)
-Water
-
 Minerals must have a ________ structure?
 Crystalline
 
@@ -268,7 +265,7 @@ Hydrolysis
 _ Horizon contains organic litter unrelated to parent material
 O
 
-_ Horizon is wishing the reach of plant roots and is mixed mineral and organic matter
+_ Horizon is within the reach of plant roots and is mixed mineral and organic matter
 A
 
 _ Horizon is the zone of leaching, and it is the most strongly weathered horizon
@@ -311,7 +308,7 @@ ___________ waves have particle movement perpendicular to the direction of wave 
 Secondary
 
 ___________ waves cause the greatest ground shaking and are the most destructive
-Surface Waves
+Surface
 
 At ____ km below the surface there is a change from the solid state above (mantle) to the liquid state at the Earth’s outer core that contributes to the S-Waves being blocked out at a certain angle
 2900
