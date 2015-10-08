@@ -78,7 +78,7 @@ def startQuiz(questions, answers):
 
         counter += 1
         print(str(counter) + ") " + question)
-        print(answers[counter-1])
+        #Displays the answer for debug purposes: print(answers[counter-1])
 
         if (input("Answer: ").lower() == answers[counter-1].lower()):
             totalCorrect += 1

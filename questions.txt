@@ -108,3 +108,249 @@ Sedimentary
 
 ___________ sedimentary rocks are composed of broken pieces of older rocks
 Clastic
+
+Sand is the sediment name for a grain with a size of _____ to _____ mm (smaller, larger)
+1/16, 2
+
+Mud has a grain size of less than ___ mm
+1/16
+
+Gravel has a grain size of higher than ___ mm
+2
+
+The sediment name for sandstone (aka. arenite) is _____
+Sand
+
+The sediment name for mudstone and shale is _____
+Mud
+
+Sedimentary rocks are dominated by stable silicates, namely, ______, the feldspars, biotite and _______
+Quartz, Muscovite
+
+Carbonates are a type of ____________ sedimentary rocks
+Biochemical
+
+Evaporites are a type of ____________ sedimentary rocks
+Chemical
+
+_______________ states that the simplest explanation is to be held the most likely
+Occam’s Razor
+
+A _______ is a generalization about nature
+Theory
+
+A _______ is a representation of reality
+Model
+
+What is the order of these (Hypothesis, Theory, Observations, Law)
+Observations, Hypothesis, Theory, Law
+
+A _______ can be defined as any part of the universe that can be isolated from the rest of the universe for the purpose of observing and measuring change
+System
+
+In which system can neither matter/energy enter/escape
+Isolated
+
+In which system can energy enter/escape but matter cannot
+Closed
+
+Earth is a(n) _________ system
+Open
+
+In a ________ feedback, a specific output tends to produce an opposite response; tends to damp the cycle or produce stability
+Negative
+
+In a ________ feedback, a system’s output produces more of the same response
+Positive
+
+The first dominant world view/paradigm called _____________ suggested that relatively few major events have shaped Earth as we see it
+Catastrophism
+
+Which theory proposed that all rocks precipitated from an ancient ocean, which has since been withdrawn or retreated?
+Neptunism
+
+The current dominant paradigm called _____________ states that the same processes repeat through Earth’s history at the same rate and that the present is the key to the past
+Uniformitarianism
+
+All matter is believed to have originated in an event called the __________ 13-14 Billion Years Ago
+Big Bang
+
+The implosion of massive stars is an event called a ____________
+Super Nova
+
+All elements heavier than ________ in the solar system originated elsewhere in the Universe
+Carbon
+
+In a region of space now occupied by the Solar System was a diffuse, approximately spherical cloud called the _______________
+Solar Nebula
+
+Closer to the Sun, we see _____ temperature condensates of what are called refractory elements (Ca, Al, Mg, Fe, and Si), which dominate Mercury, Venus, Earth, and Mars; group of planets named ___________ planets which are the rocky bodies
+High, Terrestrial
+
+Farther away from the Sun, where the nebula was colder, we see ____ temperature condensates of ________(easily vaporized) elements (N, S, C, and He), which dominate Jupiter, Saturn, Uranus, and Neptune; group of planets named __________ planets which are gas giants with ice bodies
+Low, Volatile, Jovian
+
+Bodies not sufficiently large to warrant planetary status are called _____________, and are a result of the accumulation of collision of particles with appropriate relative velocities
+Planetesimals
+
+What is found beyond the orbit of Neptune?
+Comets
+
+What is found beyond the orbit of Mars?
+Asteroid Belt
+
+As the planets grew, they became sufficiently large for __________ (separation into layers from the centre to the surface)
+Differentiation
+
+When the kinetic energy of incoming bodies is converted to heat upon collision, it is called _________ heating
+Accretion
+
+The source of planetary heat that is related to the sinking of dense Fe/Ni mixture while silicates float to exterior of a planet is called ______________
+Core Formation
+
+_____________ heat is heat that radioactive isotopes release as a by-product of their decay
+Radiogenic
+
+_____________ heating refers to the flexing of the solid Earth and other bodies in response to gravitational pulls
+Tidal
+
+Seasons develop because Earth’s _____________ is not normal to the elliptic (first one pole, then the other is tilted towards the Sun)
+Rotational Axis
+
+Earth’s rapid __________ reduces temperature extremes between day and night
+Rotation
+
+The dark blotches on the Sun are called ___________
+Sun Spots
+
+Different minerals that have the same chemical composition but different crystal structures are called ___________ (diamond and graphite)
+Polymorphs
+
+_________ describes the surface of failure in a crystal when it’s not along cleavage
+Fracture
+
+A type of sheet silicate that flakes easily and has one perfect cleavage (common in intermediate to felsic igneous rocks)
+Mica
+
+Clay minerals are examples of __________ minerals and have one perfect cleavage, common in sedimentary rocks and soils
+Silicate
+
+If we accept that early in its history Earth was entirely in the molten state, then the first solid rocks to form would have been ___________ rocks
+Igneous
+
+_________ rocks are formed by cooling and solidification of molten material known as _______ (intrusive) or __________ (extrusive)
+Igneous, Magma
+
+Since Magma is inside Earth’s crust, it is considered _____________
+Intrusive
+
+Since Lava is cooled outside Earth’s crust, it is considered _____________
+Extrusive
+
+For all rocks, the size, shape, and arrangement of the mineral grains on crystals refers to ____________
+Texture
+
+Intrusive rocks have cooled slowly in the Earth’s interior and have _______ (large/small) crystals
+Large
+
+Extrusive rocks have cooled quickly at the Earth’s surface and have _______ (large/small) crystals
+Small
+
+If the cooling on Earth’s surface is too rapid, especially with felsic lavas, no crystals form at all, and we get a volcanic glass named ________
+Obsidian
+
+___________ is the physical and chemical breakdown of rocks exposed at the Earth’s surface to smaller particles that may differ in composition from the original substance
+Weathering
+
+In a chemical weathering process called __________ feldspar hydrolyzes in acid waters to produce clay plus dissolved silica and other cations
+Hydrolysis
+
+_ Horizon contains organic litter unrelated to parent material
+O
+
+_ Horizon is wishing the reach of plant roots and is mixed mineral and organic matter
+A
+
+_ Horizon is the zone of leaching, and it is the most strongly weathered horizon
+E
+
+_ Horizon is knows as the zone of accumulation, where materials removed from the _ Horizon may accumulate
+B, E
+
+_ Horizon is essentially physically weathered bedrock, chemically unaltered
+C
+
+The process of Clastic Sedimentary Rocks (WETS+) stands for _________, _________, _________, ________, and ________
+Weathering, Erosion, Transport, Sedimentation, Lithification
+
+________ sedimentary rocks form by precipitation of minerals from water. Precipitation is when dissolved materials come out of the water
+Chemical 
+
+The _____ is the point of rapid energy release (usually below surface)
+Focus
+
+The _______ is the vertical projection of the focus to Earth’s surface
+Epicenter
+
+Shallow focus earthquakes originate down to ___km, intermediate from ___-___km, and deep focus below ___km to a practical lower limit of 700km 
+100, 100, 300, 300
+
+Arrange this in the time of occurrence (Earthquake, Fault Movement, Failure of Rocks, Energy Released)
+Failure of Rocks, Energy Released, Earthquake, Fault Movement
+
+The _____________ theory refers to the buildup of strain(deformation) in the region leading up to and after the earthquake 
+Elastic Rebound 
+
+The two types of Seismic waves are body waves (P, S), and __________ waves
+Surface
+
+___________ waves have a compressional form such as a spring compressing and decompressing 
+Primary
+
+___________ waves have particle movement perpendicular to the direction of wave propagation such as a rope moving up/down
+Secondary
+
+___________ waves cause the greatest ground shaking and are the most destructive 
+Surface Waves
+
+At ____ km below the surface there is a change from the solid state above (mantle) to the liquid state at the Earth’s outer core that contributes to the S-Waves being blocked out at a certain angle
+2900
+
+At ____ km there is change of state to a layer of Earth called the solid inner core
+5150
+
+The crust under oceans is called __________ crust and is __-__ km thick. It is high in Mg/Fe so it is _______ and is _____ dense than the other crust
+Oceanic, 5, 10, Mafic, More
+
+The crust under us is called __________ crust and is __-__ km thick. It is high in SiO2 so it is _______ and is _____ dense than the other crust
+Continental, 35,70, Felsic, Less
+
+The operation of __________ works to produce a constant total mass from Earth’s centre to its surface
+Isostasy
+
+The Mohorovicic Discontinuity is indicative of a compositional change to very dense ____________ composition in the mantle, as compared to the overlying felsic to magic crust, without a change in state
+Ultramafic 
+
+The materials are weaker or plastic in the zone named _________ , due to temperatures nearing, but not exceeding the melting point
+Asthenosphere 
+
+Everything above the asthenosphere (the crust + the uppermost mantle) comprise another layer called the ____________
+Lithosphere 
+
+The _________ is the difference in degrees between the magnetic and geographic/rotational poles 
+Declination 
+
+As magnetically susceptible minerals crystallize, then cool below their curie temperature, they lock in a record of the orientation of the ambient prevailing magnetic field at the time; the study of this is called ______________
+Paleomagnetism
+
+___________________ is driven by Earth’s internal heat, and is essentially a means of conveying heat from the interior to the exterior, cooling the Earth 
+Plate Tectonics
+
+In ________ plate boundaries, where plates move apart, stresses are tensile, with a tendency to stretch and thin the crust; new lithosphere is created 
+Divergent 
+
+In ________ plate boundaries, where plates come together, stresses are compressive, with a tendency to shorten and thicken the crust; mountains built and old lithosphere may be consumed here 
+Convergent
+
+In ________ plate boundary, where plates slide past each other in the horizontal plane, stresses are shear; not associated with any volcanic activity since no lithosphere is created/destroyed
+Transform
