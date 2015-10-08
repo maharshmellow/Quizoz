@@ -239,7 +239,7 @@ If we accept that early in its history Earth was entirely in the molten state, t
 Igneous
 
 _________ rocks are formed by cooling and solidification of molten material known as _______ (intrusive) or __________ (extrusive)
-Igneous, Magma
+Igneous, Magma, Lava
 
 Since Magma is inside Earth’s crust, it is considered _____________
 Intrusive
