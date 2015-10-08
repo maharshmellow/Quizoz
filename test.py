@@ -68,11 +68,11 @@ def getShuffledQuestions(questions, answers):
     return([shuffledQuestions, shuffledAnswers])
 
 def startQuiz(questions, answers):
-    print(questions)
-    print(answers)
+    #print(questions)
+    #print(answers)
     counter = 0
     totalCorrect = 0
-    input("Debug")
+    #input("Debug")
     for question in questions:
         os.system('clear')
 
